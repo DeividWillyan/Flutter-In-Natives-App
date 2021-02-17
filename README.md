@@ -272,3 +272,7 @@ extension ViewController {
 }
 
 ```
+
+# Result
+![](flutter-in-android-app.gif)
+![](flutter-in-ios-app.gif) 
